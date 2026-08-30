@@ -288,5 +288,14 @@
       "You do not have 2 commits on the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1788110307.208882,
+    "completed_at": 1788110309.355488,
+    "comments": [
+      "Great work with using git branch and git checkout to fix the bugs!"
+    ],
+    "status": "Completed"
   }
 ]
