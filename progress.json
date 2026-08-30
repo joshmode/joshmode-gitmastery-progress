@@ -324,5 +324,14 @@
       "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1788111062.717897,
+    "completed_at": 1788111067.251961,
+    "comments": [
+      "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
